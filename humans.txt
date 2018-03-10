@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Andrew Bird
 
 # TECHNOLOGY COLOPHON
 
